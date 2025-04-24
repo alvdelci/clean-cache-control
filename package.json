@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/alvdelci/clean-cache-control/issues"
   },
-  "homepage": "https://github.com/alvdelci/clean-cache-control#readme"
+  "homepage": "https://github.com/alvdelci/clean-cache-control#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
 }
